@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.59.0" platform="windows">
+	<Servers>
+		<Folder expanded="1">New folder<Folder expanded="0">New folder</Folder>
+			<Server>
+				<Host>conway-courier.com</Host>
+				<Port>22</Port>
+				<Protocol>6</Protocol>
+				<Type>0</Type>
+				<Logontype>0</Logontype>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>8</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>New site</Name>
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>
+			</Server>
+		</Folder>
+	</Servers>
+</FileZilla3>

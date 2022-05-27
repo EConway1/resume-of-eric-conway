@@ -1,0 +1,54 @@
+  * {
+    box-sizing: border-box;
+    
+  }
+  body {
+    display: grid;
+    font-size: 16px;
+    max-width: clamp(700px, 50%, 900px);
+    padding: 0 2rem;
+    max-inline-size: 100%;
+    background-color:  white; 
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  }
+
+  body img {
+    margin: 10px;
+  }
+
+  
+    
+     #hardskills h3 {
+      color:whitesmoke ;
+      background-color: green;
+      width: 385px;
+      /* offset-x | offset-y | color */
+      box-shadow: 10px 10px rgb(150, 144, 81);
+    }
+  
+
+   #hardskills img  {
+    box-shadow: 10px 10px rgb(150, 144, 81);
+   }
+
+
+
+#hardskills a:hover {
+  color: green; 
+}
+
+
+.workexperience h4:hover {
+  color: blue;
+}
+
+  .workexperience p {
+line-height: 2.0;
+background-attachment: scroll;
+
+  }
+
+  .workexperience img {
+    width: auto;
+    margin-right: auto;
+  }
